@@ -1,3 +1,11 @@
+/.ipynb_checkpoints
+bacon_counter.py
+config.py
+input.txt
+medical.sql
+my_data_class_db.sql
+nltk.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
